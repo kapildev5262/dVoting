@@ -83,8 +83,7 @@ A brief explanation on the basic workflow of the application.
    npm start
    ```
 
-   > If you encounter **error** during `npm install`, please note that you might need to install Microsoft Visual C++ Redistributable packages from [learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-
+   > If you encounter **error** during `npm install`.
 ## To-Do List
 
 Possible features to add/improve within the app.
