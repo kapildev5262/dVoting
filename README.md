@@ -82,8 +82,6 @@ A brief explanation on the basic workflow of the application.
    npm install
    npm start
    ```
-
-   > If you encounter **error** during `npm install`.
 ## To-Do List
 
 Possible features to add/improve within the app.
